@@ -1,0 +1,10 @@
+[package]
+name = "vrfpoker"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+hex = "0.4.3"
+rand = "0.8.5"
+schnorrkel = "0.11.4"
+sp-core = "32.0.0"
